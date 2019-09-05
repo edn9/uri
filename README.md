@@ -11,4 +11,4 @@ $ gcc -Wall hello.c -o hello
 $ ./hello
 ```
 
--Wall enable all default warnings.
+`-Wall` enable all default warnings.
